@@ -1,0 +1,21 @@
+source_code;source_concept_id;source_vocaublary_id;source_code_description;target_concept_id;target_vocabulary_id;valid_start_date;valid_end_date;invalid_reason
+Einwilligung Datennutzung;0;narse_einwilligung;Einwilligung Datennutzung;44789681;SNOMED;2024-01-01;2099-12-31;
+Einwilligung Datennutzung international;0;narse_einwilligung;Einwilligung Datennutzung international;36716070;SNOMED;2024-01-01;2099-12-31;
+Einwilligung Rekontaktierung für Forschungszwecke oder Vernetzung;0;narse_einwilligung;Einwilligung Rekontaktierung für Forschungszwecke oder Vernetzung;44803476;SNOMED;2024-01-01;2099-12-31;
+Einwilligung Erfassung genetischer Informationen;0;narse_einwilligung;Einwilligung Erfassung genetischer Informationen;506738;SNOMED;2024-01-01;2099-12-31;
+Einwilligung Fallbesprechung;0;narse_einwilligung;Einwilligung Fallbesprechung;44792404;SNOMED;2024-01-01;2099-12-31;
+Einschluss;0;narse_einwilligung;Einschluss;4146322;SNOMED;2024-01-01;2099-12-31;
+Gesicherte Diagnose;0;narse_formale_kriterien;Gesicherte Diagnose;32893;SNOMED;2024-01-01;2099-12-31;
+Verdachtsdiagnose;0;narse_formale_kriterien;Verdachtsdiagnose;32889;SNOMED;2024-01-01;2099-12-31;
+Altersgruppe;0;narse_formale_kriterien;Altersgruppe;3053159;LOINC;2024-01-01;2099-12-31;
+Aktueller Status, Lebend;0;narse_hintergrund;Aktueller Status, Lebend;45876349;LOINC;2024-01-01;2099-12-31;
+Aktueller Status, Tot;0;narse_hintergrund;Aktueller Status, Tot;45878200;LOINC;2024-01-01;2099-12-31;
+Mutter;0;narse_hintergrund;Mutter;4248584;SNOMED;2024-01-01;2099-12-31;
+Vater;0;narse_hintergrund;Vater;4283070;SNOMED;2024-01-01;2099-12-31;
+Schwester;0;narse_hintergrund;Schwester;4101245;SNOMED;2024-01-01;2099-12-31;
+Bruder;0;narse_hintergrund;Bruder;4322005;SNOMED;2024-01-01;2099-12-31;
+Kind;0;narse_hintergrund;Kind;4285883;SNOMED;2024-01-01;2099-12-31;
+Genetische Diagnose;0;narse_diagnostik;Genetische Diagnose;506738;SNOMED;2024-01-01;2099-12-31;
+Diagnose anhand spezfisicher Biomarker;0;narse_diagnostik;Diagnose anhand spezfisicher Biomarker;42690471;SNOMED;2024-01-01;2099-12-31;
+Biomarker Befund;0;narse_diagnostik;Biomarker Befund;42690471;SNOMED;2024-01-01;2099-12-31;
+Klinisch gesicherte Diagnose;0;narse_diagnostik;Klinisch gesicherte Diagnose;4309829;SNOMED;2024-01-01;2099-12-31;
